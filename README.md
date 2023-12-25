@@ -1,2 +1,2 @@
-# tbfs
+# TBFS 1.0
 TORIBASH FreeStyle
