@@ -1,23 +1,23 @@
 # TORIBASH FreeStyle (TBFS 1.0)
 This TORIBASH mod explores new avenues for competitive gameplay, leaning toward strikers while in a traditional grappling game environment.
 
-Striking Specialist Advantages:
-    • No out-of-ring DQ (ring surrounded by walls)
-    • No in-ring DQ
-    • Early and mid-game turn frames have high movement flexibility
+Striking Specialist Advantages:<br>
+    • No out-of-ring DQ (ring surrounded by walls)<br>
+    • No in-ring DQ<br>
+    • Early and mid-game turn frames have high movement flexibility<br>
 
-Grappling Specialist Advantages:
-    • Grabs enabled
-    • Same gravity as Aikido, ABD, and Greykido
-    • Increased engage distance (striker has to approach before starting attack)
+Grappling Specialist Advantages:<br>
+    • Grabs enabled<br>
+    • Same gravity as Aikido, ABD, and Greykido<br>
+    • Increased engage distance (striker has to approach before starting attack)<br>
     
-Neutral Advantages:
-    • Decaps included
-    • Dismemberments included
-    • Fractures included
+Neutral Advantages:<br>
+    • Decaps included<br>
+    • Dismemberments included<br>
+    • Fractures included<br>
 
-Environment Design Philosophy:
-    • Minimalistic (simple and trimmed geometry)
+Environment Design Philosophy:<br>
+    • Minimalistic (simple and trimmed geometry)<br>
     • Optimized (should run at 60 fps on most hardware)
 
 Maximum Match Length (1000 match frames / 23 turns / 20 second reaction time):
