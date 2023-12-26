@@ -13,13 +13,14 @@ A TORIBASH mod exploring new avenues for competitive gameplay.
 
 **Grappling Specialist Advantages:**
  - Grabs enabled<br>
- - Same gravity as Aikido, ABD, and Greykido<br>
+ - Aikido Big Dojo gravity settings<br>
  - Increased engage distance (striker has to approach before starting attack)<br>
     
 **Neutral Advantages:**
  - Decaps included<br>
  - Dismemberments included<br>
  - Fractures included<br>
+ - Aikido Big Dojo point system 
 
 **Environment Design Philosophy:**
  - Minimalistic (simple and trimmed geometry)<br>
