@@ -1,7 +1,10 @@
 # TORIBASH FreeStyle (TBFS 1.0)
 A TORIBASH mod exploring new avenues for competitive gameplay.
 
-![](tbfs-1.gif)
+![](tbfs-1-lite.gif)
+![](tbfs-2-lite.gif)
+![](tbfs-3-lite.gif)
+![](tbfs-4-lite.gif)
 
 **Striking Specialist Advantages:**
  - No out-of-ring DQ (ring surrounded by walls)<br>
