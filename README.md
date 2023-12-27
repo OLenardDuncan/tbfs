@@ -14,21 +14,21 @@ A TORIBASH mod exploring new avenues for competitive gameplay.
 **Grappling Specialist Advantages:**
  - Grabs enabled<br>
  - Aikido Big Dojo gravity settings<br>
- - Increased engage distance (striker has to approach before starting attack)<br>
-    
+ 
 **Neutral Advantages:**
  - Decaps included<br>
  - Dismemberments included<br>
  - Fractures included<br>
- - Aikido Big Dojo point system 
+ - Aikido Big Dojo point system<br>
+ - Increased engage distance
 
 **Environment Design Philosophy:**
  - Minimalistic (simple and trimmed geometry)<br>
  - Optimized (should run at 60 fps on most hardware)<br>
 
 **Realtime Match Length (1000 frames / 23 turns / 20-second reaction time):**
- - 1 Match - 7 mins 40 secs<br>
- - Top 8 - 61 mins 20 secs (~1 hr)<br>
- - Top 16 - 122 mins 40 secs (~2 hrs)<br>
- - Top 24 - 184 mins (~3 hrs)<br>
- - Top 32 - 245 mins 20 secs (~4 hrs)<br>
+ - 1 Match - ~7 mins<br>
+ - Top 8 - ~1 hr<br>
+ - Top 16 - ~2 hrs<br>
+ - Top 24 - ~3 hrs<br>
+ - Top 32 - ~4 hrs<br>
